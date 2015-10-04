@@ -4,6 +4,7 @@
 
 <main>Expériences professionnelles</main>
 <ul>E-store manager - CITADIUM<li>
+Gestion et animation du site
 <ul>Chargé d'animation digital - CELIOCLUB // 08/2014 - 03/2015.<li>
 Gestion et animation de la page CELIOCLUB du site e-commerce CELIO
 Lancement et gestion de la marketplace Menlook pour la marque CELIOCLUB
@@ -11,7 +12,7 @@ Gestion des échantillons produits et shooting
 Brief à l'agence digitale et validation : homepage, landing page, bannières, newsletter
 <ul>Responsable e-commerce - SEBH // 04/2014 - 06/2014.<li>
 Lancement et développement d'une boutique en ligne de prêt-à-porter sous Prestashop 1.6
-Business Development manager - Projet Keystone // 09/2013 - 11/2013.<li>
+<ul>Business Development manager - Projet Keystone // 09/2013 - 11/2013.<li>
 Business model, étude de marché et stratégie commerciale et marketing
 <ul>Chef de produit e-commerce - RPCM Conseil // 02/2011 - 12/2012.<li>
 Responsable des e-boutiques des éditeurs de vidéo (Universal, Warner, Seven 7) et médias.
